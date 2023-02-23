@@ -1,0 +1,2240 @@
+ABI1	function summary
+ABI1	fusion partner
+ABI1	invasion and metastasis
+ABI1	mouse model
+ABI1	proliferative signalling
+ABI1	role in cancer
+ABI1	suppression of growth
+ABL1	angiogenesis
+ABL1	change of cellular energetics
+ABL1	differentiation and development
+ABL1	escaping programmed cell death
+ABL1	function summary
+ABL1	fusion partner
+ABL1	genome instability and mutations
+ABL1	global regulation of gene expression
+ABL1	invasion and metastasis
+ABL1	proliferative signalling
+ABL1	role in cancer
+ABL2	role in cancer
+ACKR3	angiogenesis
+ACKR3	clinical impact
+ACKR3	escaping programmed cell death
+ACKR3	function summary
+ACKR3	fusion partner
+ACKR3	invasion and metastasis
+ACKR3	proliferative signalling
+ACKR3	role in cancer
+ACKR3	types of alteration in cancer
+ACSL3	function summary
+ACSL3	fusion partner
+ACSL3	impact of mutation on function
+ACSL3	role in cancer
+ACSL3	types of alteration in cancer
+ACSL6	function summary
+ACSL6	fusion partner
+ACSL6	role in cancer
+ACVR1	differentiation and development
+ACVR1	escaping programmed cell death
+ACVR1	function summary
+ACVR1	invasion and metastasis
+ACVR1	proliferative signalling
+ACVR1	role in cancer
+ACVR1	types of alteration in cancer
+ACVR2A	cell division control
+ACVR2A	clinical impact
+ACVR2A	differentiation and development
+ACVR2A	escaping programmed cell death
+ACVR2A	function summary
+ACVR2A	fusion partner
+ACVR2A	genome instability and mutations
+ACVR2A	global regulation of gene expression
+ACVR2A	impact of mutation on function
+ACVR2A	invasion and metastasis
+ACVR2A	proliferative signalling
+ACVR2A	role in cancer
+ACVR2A	suppression of growth
+ACVR2A	types of alteration in cancer
+AFF1	differentiation and development
+AFF1	function summary
+AFF1	fusion partner
+AFF1	role in cancer
+AFF3	function summary
+AFF3	fusion partner
+AFF3	role in cancer
+AFF3	types of alteration in cancer
+AFF4	differentiation and development
+AFF4	function summary
+AFF4	fusion partner
+AFF4	invasion and metastasis
+AFF4	proliferative signalling
+AFF4	role in cancer
+AKAP9	function summary
+AKAP9	fusion partner
+AKAP9	impact of mutation on function
+AKAP9	role in cancer
+AKT1	angiogenesis
+AKT1	change of cellular energetics
+AKT1	escaping programmed cell death
+AKT1	function summary
+AKT1	genome instability and mutations
+AKT1	impact of mutation on function
+AKT1	invasion and metastasis
+AKT1	proliferative signalling
+AKT1	role in cancer
+AKT1	suppression of growth
+AKT1	types of alteration in cancer
+AKT2	role in cancer
+AKT2	types of alteration in cancer
+ALDH2	function summary
+ALDH2	fusion partner
+ALDH2	genome instability and mutations
+ALDH2	role in cancer
+ALK	escaping programmed cell death
+ALK	function summary
+ALK	fusion partner
+ALK	impact of mutation on function
+ALK	invasion and metastasis
+ALK	proliferative signalling
+ALK	role in cancer
+ALK	types of alteration in cancer
+AMER1	function summary
+AMER1	impact of mutation on function
+AMER1	role in cancer
+AMER1	suppression of growth
+AMER1	types of alteration in cancer
+APC	cell division control
+APC	differentiation and development
+APC	escaping programmed cell death
+APC	function summary
+APC	genome instability and mutations
+APC	invasion and metastasis
+APC	role in cancer
+APC	suppression of growth
+APC	types of alteration in cancer
+APOBEC3B	function summary
+APOBEC3B	genome instability and mutations
+APOBEC3B	role in cancer
+APOBEC3B	tumour promoting inflammation
+APOBEC3B	types of alteration in cancer
+AR	escaping programmed cell death
+AR	function summary
+ARHGAP26	clinical impact
+ARHGAP26	differentiation and development
+ARHGAP26	function summary
+ARHGAP26	fusion partner
+ARHGAP26	impact of mutation on function
+ARHGAP26	invasion and metastasis
+ARHGAP26	proliferative signalling
+ARHGAP26	role in cancer
+ARHGAP26	suppression of growth
+ARHGAP26	types of alteration in cancer
+ARHGEF12	role in cancer
+ARID1A	cell replicative immortality
+ARID1A	differentiation and development
+ARID1A	escaping programmed cell death
+ARID1A	function summary
+ARID1A	fusion partner
+ARID1A	genome instability and mutations
+ARID1A	global regulation of gene expression
+ARID1A	impact of mutation on function
+ARID1A	invasion and metastasis
+ARID1A	role in cancer
+ARID1A	suppression of growth
+ARID1A	types of alteration in cancer
+ARID1B	role in cancer
+ARID2	differentiation and development
+ARID2	function summary
+ARID2	genome instability and mutations
+ARID2	role in cancer
+ARID2	suppression of growth
+ARID2	types of alteration in cancer
+AR	impact of mutation on function
+ARNT	angiogenesis
+ARNT	change of cellular energetics
+ARNT	function summary
+ARNT	fusion partner
+ARNT	invasion and metastasis
+ARNT	role in cancer
+AR	proliferative signalling
+AR	role in cancer
+AR	types of alteration in cancer
+ASPSCR1	function summary
+ASPSCR1	fusion partner
+ASPSCR1	impact of mutation on function
+ASPSCR1	role in cancer
+ASXL1	differentiation and development
+ASXL1	function summary
+ASXL1	global regulation of gene expression
+ASXL1	impact of mutation on function
+ASXL1	mouse model
+ASXL1	role in cancer
+ATF1	function summary
+ATF1	fusion partner
+ATF1	impact of mutation on function
+ATF1	role in cancer
+ATIC	function summary
+ATIC	fusion partner
+ATIC	impact of mutation on function
+ATIC	role in cancer
+ATM	cell division control
+ATM	cell replicative immortality
+ATM	escaping programmed cell death
+ATM	function summary
+ATM	genome instability and mutations
+ATM	invasion and metastasis
+ATM	role in cancer
+ATM	senescence
+ATM	tumour promoting inflammation
+ATM	types of alteration in cancer
+ATP1A1	escaping programmed cell death
+ATP1A1	function summary
+ATP1A1	impact of mutation on function
+ATP1A1	invasion and metastasis
+ATP1A1	role in cancer
+ATP1A1	types of alteration in cancer
+ATP2B3	function summary
+ATP2B3	role in cancer
+ATP2B3	suppression of growth
+ATP2B3	types of alteration in cancer
+ATR	cell division control
+ATR	change of cellular energetics
+ATR	differentiation and development
+ATR	escaping programmed cell death
+ATR	function summary
+ATR	genome instability and mutations
+ATR	impact of mutation on function
+ATR	role in cancer
+ATR	senescence
+ATR	suppression of growth
+ATR	types of alteration in cancer
+ATRX	cell division control
+ATRX	function summary
+ATRX	genome instability and mutations
+ATRX	global regulation of gene expression
+ATRX	impact of mutation on function
+ATRX	role in cancer
+ATRX	types of alteration in cancer
+AXIN1	cell replicative immortality
+AXIN1	escaping programmed cell death
+AXIN1	function summary
+AXIN1	impact of mutation on function
+AXIN1	role in cancer
+AXIN1	suppression of growth
+AXIN2	function summary
+AXIN2	role in cancer
+AXIN2	suppression of growth
+B2M	escaping immune response to cancer
+B2M	function summary
+B2M	role in cancer
+B2M	types of alteration in cancer
+BAP1	cell division control
+BAP1	change of cellular energetics
+BAP1	escaping programmed cell death
+BAP1	function summary
+BAP1	genome instability and mutations
+BAP1	invasion and metastasis
+BAP1	proliferative signalling
+BAP1	role in cancer
+BAP1	types of alteration in cancer
+BCL10	cell division control
+BCL10	escaping programmed cell death
+BCL10	function summary
+BCL10	fusion partner
+BCL10	genome instability and mutations
+BCL10	invasion and metastasis
+BCL10	proliferative signalling
+BCL10	role in cancer
+BCL10	types of alteration in cancer
+BCL11A	cell replicative immortality
+BCL11A	differentiation and development
+BCL11A	function summary
+BCL11A	fusion partner
+BCL11A	role in cancer
+BCL11B	function summary
+BCL11B	fusion partner
+BCL11B	role in cancer
+BCL11B	types of alteration in cancer
+BCL9	angiogenesis
+BCL9	function summary
+BCL9	fusion partner
+BCL9	invasion and metastasis
+BCL9L	function summary
+BCL9L	genome instability and mutations
+BCL9L	invasion and metastasis
+BCL9L	mouse model
+BCL9L	proliferative signalling
+BCL9L	role in cancer
+BCL9L	types of alteration in cancer
+BCL9	mouse model
+BCL9	proliferative signalling
+BCL9	role in cancer
+BCL9	types of alteration in cancer
+BCOR	differentiation and development
+BCOR	function summary
+BCOR	fusion partner
+BCOR	global regulation of gene expression
+BCOR	impact of mutation on function
+BCORL1	function summary
+BCORL1	invasion and metastasis
+BCORL1	role in cancer
+BCORL1	types of alteration in cancer
+BCOR	role in cancer
+BCOR	suppression of growth
+BCOR	types of alteration in cancer
+BIRC3	clinical impact
+BIRC3	escaping programmed cell death
+BIRC3	function summary
+BIRC3	fusion partner
+BIRC3	impact of mutation on function
+BIRC3	role in cancer
+BLM	differentiation and development
+BLM	escaping programmed cell death
+BLM	function summary
+BLM	genome instability and mutations
+BLM	role in cancer
+BLM	suppression of growth
+BMPR1A	clinical impact
+BMPR1A	differentiation and development
+BMPR1A	function summary
+BMPR1A	invasion and metastasis
+BMPR1A	mouse model
+BMPR1A	role in cancer
+BMPR1A	types of alteration in cancer
+BRAF	differentiation and development
+BRAF	escaping programmed cell death
+BRAF	function summary
+BRAF	fusion partner
+BRAF	impact of mutation on function
+BRAF	proliferative signalling
+BRAF	role in cancer
+BRCA1	angiogenesis
+BRCA1	cell division control
+BRCA1	change of cellular energetics
+BRCA1	differentiation and development
+BRCA1	escaping programmed cell death
+BRCA1	function summary
+BRCA1	genome instability and mutations
+BRCA1	impact of mutation on function
+BRCA1	invasion and metastasis
+BRCA1	role in cancer
+BRCA1	types of alteration in cancer
+BRCA2	cell division control
+BRCA2	clinical impact
+BRCA2	differentiation and development
+BRCA2	escaping programmed cell death
+BRCA2	function summary
+BRCA2	genome instability and mutations
+BRCA2	role in cancer
+BRCA2	types of alteration in cancer
+BRD4	cell division control
+BRD4	cell replicative immortality
+BRD4	escaping programmed cell death
+BRD4	function summary
+BRD4	fusion partner
+BRD4	global regulation of gene expression
+BRD4	interaction with pathogen
+BRD4	proliferative signalling
+BRD4	role in cancer
+BRIP1	cell division control
+BRIP1	differentiation and development
+BRIP1	function summary
+BRIP1	genome instability and mutations
+BRIP1	mouse model
+BRIP1	role in cancer
+BTK	cell replicative immortality
+BTK	escaping programmed cell death
+BTK	function summary
+BTK	genome instability and mutations
+BTK	impact of mutation on function
+BTK	role in cancer
+BTK	types of alteration in cancer
+BUB1B	cell division control
+BUB1B	escaping programmed cell death
+BUB1B	function summary
+BUB1B	genome instability and mutations
+BUB1B	invasion and metastasis
+BUB1B	proliferative signalling
+BUB1B	role in cancer
+CACNA1D	function summary
+CACNA1D	impact of mutation on function
+CACNA1D	proliferative signalling
+CACNA1D	role in cancer
+CACNA1D	types of alteration in cancer
+CALR	angiogenesis
+CALR	escaping programmed cell death
+CALR	function summary
+CALR	impact of mutation on function
+CALR	invasion and metastasis
+CALR	proliferative signalling
+CALR	role in cancer
+CALR	types of alteration in cancer
+CAMTA1	function summary
+CAMTA1	fusion partner
+CAMTA1	impact of mutation on function
+CAMTA1	role in cancer
+CAMTA1	suppression of growth
+CANT1	function summary
+CANT1	fusion partner
+CANT1	impact of mutation on function
+CANT1	role in cancer
+CARD11	escaping programmed cell death
+CARD11	function summary
+CARD11	impact of mutation on function
+CARD11	role in cancer
+CARD11	types of alteration in cancer
+CARS	escaping programmed cell death
+CARS	function summary
+CARS	fusion partner
+CARS	role in cancer
+CASP8	angiogenesis
+CASP8	escaping programmed cell death
+CASP8	function summary
+CASP8	impact of mutation on function
+CASP8	invasion and metastasis
+CASP8	proliferative signalling
+CASP8	role in cancer
+CASP8	tumour promoting inflammation
+CBFA2T3	change of cellular energetics
+CBFA2T3	differentiation and development
+CBFA2T3	function summary
+CBFA2T3	fusion partner
+CBFA2T3	role in cancer
+CBFA2T3	suppression of growth
+CBFA2T3	types of alteration in cancer
+CBFB	differentiation and development
+CBFB	function summary
+CBFB	fusion partner
+CBFB	impact of mutation on function
+CBFB	invasion and metastasis
+CBFB	mouse model
+CBFB	role in cancer
+CBLB	escaping immune response to cancer
+CBLB	function summary
+CBLB	invasion and metastasis
+CBLB	role in cancer
+CBLB	suppression of growth
+CBL	function summary
+CBL	fusion partner
+CBL	impact of mutation on function
+CBL	invasion and metastasis
+CBL	proliferative signalling
+CBL	role in cancer
+CCDC6	cell division control
+CCDC6	change of cellular energetics
+CCDC6	escaping programmed cell death
+CCDC6	function summary
+CCDC6	fusion partner
+CCDC6	genome instability and mutations
+CCDC6	role in cancer
+CCDC6	suppression of growth
+CCNB1IP1	cell division control
+CCNB1IP1	clinical impact
+CCNB1IP1	function summary
+CCNB1IP1	invasion and metastasis
+CCNB1IP1	role in cancer
+CCND1	change of cellular energetics
+CCND1	differentiation and development
+CCND1	function summary
+CCND1	fusion partner
+CCND1	genome instability and mutations
+CCND1	impact of mutation on function
+CCND1	invasion and metastasis
+CCND1	role in cancer
+CCND1	types of alteration in cancer
+CCND2	cell division control
+CCND2	function summary
+CCND2	fusion partner
+CCND2	proliferative signalling
+CCND2	role in cancer
+CCND2	types of alteration in cancer
+CCNE1	cell division control
+CCNE1	cell replicative immortality
+CCNE1	function summary
+CCNE1	proliferative signalling
+CCNE1	role in cancer
+CD79A	function summary
+CD79A	invasion and metastasis
+CD79A	proliferative signalling
+CD79A	role in cancer
+CD79B	escaping programmed cell death
+CD79B	function summary
+CD79B	role in cancer
+CDC73	cell division control
+CDC73	escaping programmed cell death
+CDC73	function summary
+CDC73	invasion and metastasis
+CDC73	role in cancer
+CDC73	suppression of growth
+CDH11	differentiation and development
+CDH11	escaping programmed cell death
+CDH11	function summary
+CDH11	fusion partner
+CDH11	invasion and metastasis
+CDH11	role in cancer
+CDH11	types of alteration in cancer
+CDH1	change of cellular energetics
+CDH1	function summary
+CDH1	invasion and metastasis
+CDH1	role in cancer
+CDH1	types of alteration in cancer
+CDK12	change of cellular energetics
+CDK12	function summary
+CDK12	genome instability and mutations
+CDK12	role in cancer
+CDK12	types of alteration in cancer
+CDK4	cell division control
+CDK4	cell replicative immortality
+CDK4	function summary
+CDK4	role in cancer
+CDK4	types of alteration in cancer
+CDK6	cell division control
+CDK6	differentiation and development
+CDK6	function summary
+CDK6	fusion partner
+CDK6	proliferative signalling
+CDK6	role in cancer
+CDKN2A	angiogenesis
+CDKN2A	escaping programmed cell death
+CDKN2A	function summary
+CDKN2A	invasion and metastasis
+CDKN2A	role in cancer
+CDKN2A	senescence
+CDKN2A	suppression of growth
+CDKN2A	types of alteration in cancer
+CDKN2C	cell division control
+CDKN2C	clinical impact
+CDKN2C	differentiation and development
+CDKN2C	escaping programmed cell death
+CDKN2C	function summary
+CDKN2C	impact of mutation on function
+CDKN2C	mouse model
+CDKN2C	role in cancer
+CDKN2C	senescence
+CDKN2C	suppression of growth
+CDKN2C	types of alteration in cancer
+CDX2	function summary
+CEBPA	cell division control
+CEBPA	change of cellular energetics
+CEBPA	clinical impact
+CEBPA	differentiation and development
+CEBPA	escaping programmed cell death
+CEBPA	function summary
+CEBPA	fusion partner
+CEBPA	global regulation of gene expression
+CEBPA	impact of mutation on function
+CEBPA	invasion and metastasis
+CEBPA	mouse model
+CEBPA	proliferative signalling
+CEBPA	role in cancer
+CEBPA	suppression of growth
+CEBPA	types of alteration in cancer
+CHD4	cell division control
+CHD4	differentiation and development
+CHD4	function summary
+CHD4	genome instability and mutations
+CHD4	global regulation of gene expression
+CHD4	role in cancer
+CHD4	types of alteration in cancer
+CHEK2	cell division control
+CHEK2	escaping programmed cell death
+CHEK2	function summary
+CHEK2	genome instability and mutations
+CHEK2	impact of mutation on function
+CHEK2	role in cancer
+CHEK2	senescence
+CIC	change of cellular energetics
+CIC	differentiation and development
+CIC	function summary
+CIC	global regulation of gene expression
+CIC	impact of mutation on function
+CIC	invasion and metastasis
+CIC	role in cancer
+CIC	suppression of growth
+CIC	types of alteration in cancer
+CIITA	escaping immune response to cancer
+CIITA	function summary
+CIITA	fusion partner
+CIITA	role in cancer
+CIITA	types of alteration in cancer
+CLIP1	differentiation and development
+CLIP1	function summary
+CLIP1	fusion partner
+CLIP1	role in cancer
+CLTC	function summary
+CLTC	fusion partner
+CLTC	genome instability and mutations
+CLTC	impact of mutation on function
+CLTCL1	differentiation and development
+CLTCL1	function summary
+CLTCL1	fusion partner
+CLTCL1	invasion and metastasis
+CLTCL1	role in cancer
+CLTC	role in cancer
+CNBP	escaping programmed cell death
+CNBP	function summary
+CNBP	fusion partner
+CNBP	invasion and metastasis
+CNBP	role in cancer
+CNOT3	cell division control
+CNOT3	differentiation and development
+CNOT3	escaping programmed cell death
+CNOT3	function summary
+CNOT3	role in cancer
+CNOT3	suppression of growth
+COL2A1	clinical impact
+COL2A1	differentiation and development
+COL2A1	function summary
+COL2A1	fusion partner
+COL2A1	role in cancer
+COL2A1	types of alteration in cancer
+CREB3L1	angiogenesis
+CREB3L1	function summary
+CREB3L1	fusion partner
+CREB3L1	invasion and metastasis
+CREB3L1	role in cancer
+CREB3L2	differentiation and development
+CREB3L2	function summary
+CREB3L2	fusion partner
+CREB3L2	proliferative signalling
+CREB3L2	role in cancer
+CREBBP	cell division control
+CREBBP	escaping programmed cell death
+CREBBP	function summary
+CREBBP	fusion partner
+CREBBP	genome instability and mutations
+CREBBP	invasion and metastasis
+CREBBP	proliferative signalling
+CREBBP	role in cancer
+CREBBP	types of alteration in cancer
+CRLF2	function summary
+CRLF2	fusion partner
+CRLF2	role in cancer
+CRLF2	types of alteration in cancer
+CRTC1	function summary
+CRTC1	fusion partner
+CRTC1	impact of mutation on function
+CRTC1	proliferative signalling
+CRTC1	role in cancer
+CRTC1	types of alteration in cancer
+CSF3R	clinical impact
+CSF3R	differentiation and development
+CSF3R	escaping programmed cell death
+CSF3R	function summary
+CSF3R	impact of mutation on function
+CSF3R	invasion and metastasis
+CSF3R	mouse model
+CSF3R	proliferative signalling
+CSF3R	role in cancer
+CSF3R	types of alteration in cancer
+CTCF	function summary
+CTCF	genome instability and mutations
+CTCF	global regulation of gene expression
+CTCF	impact of mutation on function
+CTCF	mouse model
+CTCF	role in cancer
+CTCF	types of alteration in cancer
+CTNNB1	angiogenesis
+CTNNB1	cell division control
+CTNNB1	cell replicative immortality
+CTNNB1	change of cellular energetics
+CTNNB1	differentiation and development
+CTNNB1	escaping immune response to cancer
+CTNNB1	escaping programmed cell death
+CTNNB1	function summary
+CTNNB1	fusion partner
+CTNNB1	genome instability and mutations
+CTNNB1	invasion and metastasis
+CTNNB1	mouse model
+CTNNB1	proliferative signalling
+CTNNB1	role in cancer
+CTNNB1	suppression of growth
+CUX1	angiogenesis
+CUX1	cell division control
+CUX1	escaping immune response to cancer
+CUX1	escaping programmed cell death
+CUX1	function summary
+CUX1	genome instability and mutations
+CUX1	impact of mutation on function
+CUX1	invasion and metastasis
+CUX1	proliferative signalling
+CUX1	role in cancer
+CUX1	suppression of growth
+CUX1	types of alteration in cancer
+CXCR4	differentiation and development
+CXCR4	function summary
+CXCR4	impact of mutation on function
+CXCR4	invasion and metastasis
+CXCR4	proliferative signalling
+CXCR4	role in cancer
+CYLD	angiogenesis
+CYLD	cell division control
+CYLD	clinical impact
+CYLD	differentiation and development
+CYLD	escaping programmed cell death
+CYLD	function summary
+CYLD	interaction with pathogen
+CYLD	invasion and metastasis
+CYLD	mouse model
+CYLD	role in cancer
+CYLD	suppression of growth
+CYLD	tumour promoting inflammation
+CYLD	types of alteration in cancer
+DAXX	cell division control
+DAXX	escaping programmed cell death
+DAXX	function summary
+DAXX	genome instability and mutations
+DAXX	invasion and metastasis
+DAXX	proliferative signalling
+DAXX	role in cancer
+DAXX	senescence
+DAXX	types of alteration in cancer
+DCTN1	clinical impact
+DCTN1	function summary
+DCTN1	fusion partner
+DCTN1	role in cancer
+DDB2	escaping programmed cell death
+DDB2	function summary
+DDB2	genome instability and mutations
+DDB2	invasion and metastasis
+DDB2	proliferative signalling
+DDB2	role in cancer
+DDIT3	escaping programmed cell death
+DDIT3	function summary
+DDIT3	fusion partner
+DDIT3	role in cancer
+DDIT3	tumour promoting inflammation
+DDIT3	types of alteration in cancer
+DDR2	differentiation and development
+DDR2	function summary
+DDR2	impact of mutation on function
+DDR2	invasion and metastasis
+DDR2	role in cancer
+DDX10	function summary
+DDX10	fusion partner
+DDX10	role in cancer
+DDX10	suppression of growth
+DDX10	types of alteration in cancer
+DDX3X	cell division control
+DDX3X	change of cellular energetics
+DDX3X	escaping programmed cell death
+DDX3X	function summary
+DDX3X	impact of mutation on function
+DDX3X	invasion and metastasis
+DDX3X	role in cancer
+DDX3X	suppression of growth
+DDX5	cell division control
+DDX5	escaping programmed cell death
+DDX5	function summary
+DDX5	global regulation of gene expression
+DDX5	invasion and metastasis
+DDX5	proliferative signalling
+DDX5	role in cancer
+DDX6	angiogenesis
+DDX6	differentiation and development
+DDX6	escaping programmed cell death
+DDX6	function summary
+DDX6	fusion partner
+DDX6	global regulation of gene expression
+DDX6	impact of mutation on function
+DDX6	proliferative signalling
+DDX6	role in cancer
+DDX6	types of alteration in cancer
+DICER1	angiogenesis
+DICER1	cell replicative immortality
+DICER1	clinical impact
+DICER1	escaping programmed cell death
+DICER1	function summary
+DICER1	genome instability and mutations
+DICER1	global regulation of gene expression
+DICER1	invasion and metastasis
+DICER1	proliferative signalling
+DICER1	role in cancer
+DICER1	types of alteration in cancer
+DNM2	angiogenesis
+DNM2	function summary
+DNM2	impact of mutation on function
+DNM2	invasion and metastasis
+DNM2	proliferative signalling
+DNM2	role in cancer
+DNM2	types of alteration in cancer
+DNMT3A	angiogenesis
+DNMT3A	change of cellular energetics
+DNMT3A	clinical impact
+DNMT3A	differentiation and development
+DNMT3A	escaping immune response to cancer
+DNMT3A	escaping programmed cell death
+DNMT3A	function summary
+DNMT3A	global regulation of gene expression
+DNMT3A	impact of mutation on function
+DNMT3A	invasion and metastasis
+DNMT3A	mouse model
+DNMT3A	proliferative signalling
+DNMT3A	role in cancer
+DNMT3A	types of alteration in cancer
+DROSHA	function summary
+DROSHA	global regulation of gene expression
+DROSHA	impact of mutation on function
+DROSHA	role in cancer
+DROSHA	types of alteration in cancer
+EBF1	function summary
+EBF1	fusion partner
+EBF1	impact of mutation on function
+EBF1	role in cancer
+EBF1	suppression of growth
+EGFR	angiogenesis
+EGFR	change of cellular energetics
+EGFR	differentiation and development
+EGFR	escaping immune response to cancer
+EGFR	escaping programmed cell death
+EGFR	function summary
+EGFR	impact of mutation on function
+EGFR	invasion and metastasis
+EGFR	proliferative signalling
+EGFR	role in cancer
+EGFR	types of alteration in cancer
+EIF3E	angiogenesis
+EIF3E	escaping programmed cell death
+EIF3E	function summary
+EIF3E	fusion partner
+EIF3E	invasion and metastasis
+EIF3E	proliferative signalling
+EIF3E	role in cancer
+EIF4A2	clinical impact
+EIF4A2	function summary
+EIF4A2	fusion partner
+EIF4A2	impact of mutation on function
+EIF4A2	role in cancer
+ELF4	cell division control
+ELF4	cell replicative immortality
+ELF4	differentiation and development
+ELF4	escaping programmed cell death
+ELF4	function summary
+ELF4	fusion partner
+ELF4	impact of mutation on function
+ELF4	mouse model
+ELF4	proliferative signalling
+ELF4	role in cancer
+ELF4	suppression of growth
+ELK4	escaping programmed cell death
+ELK4	function summary
+ELK4	fusion partner
+ELK4	impact of mutation on function
+ELK4	proliferative signalling
+ELK4	role in cancer
+ELK4	types of alteration in cancer
+ELL	angiogenesis
+ELL	cell replicative immortality
+ELL	function summary
+ELL	fusion partner
+ELL	role in cancer
+ELL	suppression of growth
+EML4	cell division control
+EML4	function summary
+EML4	fusion partner
+EML4	role in cancer
+EP300	differentiation and development
+EP300	escaping programmed cell death
+EP300	function summary
+EP300	fusion partner
+EP300	role in cancer
+EP300	suppression of growth
+EP300	types of alteration in cancer
+EPAS1	angiogenesis
+EPAS1	differentiation and development
+EPAS1	escaping programmed cell death
+EPAS1	function summary
+EPAS1	impact of mutation on function
+EPAS1	invasion and metastasis
+EPAS1	proliferative signalling
+EPAS1	role in cancer
+EPAS1	suppression of growth
+EPAS1	tumour promoting inflammation
+EPAS1	types of alteration in cancer
+EPS15	function summary
+EPS15	fusion partner
+EPS15	proliferative signalling
+EPS15	role in cancer
+ERBB2	change of cellular energetics
+ERBB2	differentiation and development
+ERBB2	escaping programmed cell death
+ERBB2	function summary
+ERBB2	fusion partner
+ERBB2	invasion and metastasis
+ERBB2	proliferative signalling
+ERBB2	role in cancer
+ERBB3	differentiation and development
+ERBB3	escaping programmed cell death
+ERBB3	function summary
+ERBB3	invasion and metastasis
+ERBB3	proliferative signalling
+ERBB3	role in cancer
+ERBB4	cell division control
+ERBB4	differentiation and development
+ERBB4	escaping programmed cell death
+ERBB4	function summary
+ERBB4	impact of mutation on function
+ERBB4	mouse model
+ERBB4	proliferative signalling
+ERBB4	role in cancer
+ERBB4	suppression of growth
+ERBB4	types of alteration in cancer
+ERC1	function summary
+ERC1	fusion partner
+ERC1	impact of mutation on function
+ERC1	role in cancer
+ERCC2	escaping programmed cell death
+ERCC2	function summary
+ERCC2	genome instability and mutations
+ERCC2	role in cancer
+ERCC3	escaping programmed cell death
+ERCC3	function summary
+ERCC3	genome instability and mutations
+ERCC3	role in cancer
+ERCC4	clinical impact
+ERCC4	function summary
+ERCC4	genome instability and mutations
+ERCC4	role in cancer
+ERCC5	escaping programmed cell death
+ERCC5	function summary
+ERCC5	genome instability and mutations
+ERCC5	role in cancer
+ERG	cell replicative immortality
+ERG	differentiation and development
+ERG	function summary
+ERG	fusion partner
+ERG	role in cancer
+ESR1	escaping immune response to cancer
+ESR1	function summary
+ESR1	fusion partner
+ESR1	impact of mutation on function
+ESR1	interaction with pathogen
+ESR1	invasion and metastasis
+ESR1	proliferative signalling
+ESR1	role in cancer
+ESR1	suppression of growth
+ESR1	types of alteration in cancer
+ETNK1	escaping programmed cell death
+ETNK1	function summary
+ETNK1	role in cancer
+ETV6	differentiation and development
+ETV6	escaping programmed cell death
+ETV6	function summary
+ETV6	fusion partner
+ETV6	impact of mutation on function
+ETV6	invasion and metastasis
+ETV6	role in cancer
+EWSR1	cell division control
+EWSR1	function summary
+EWSR1	fusion partner
+EWSR1	genome instability and mutations
+EWSR1	impact of mutation on function
+EWSR1	role in cancer
+EZH2	angiogenesis
+EZH2	cell division control
+EZH2	change of cellular energetics
+EZH2	clinical impact
+EZH2	differentiation and development
+EZH2	escaping immune response to cancer
+EZH2	escaping programmed cell death
+EZH2	function summary
+EZH2	genome instability and mutations
+EZH2	global regulation of gene expression
+EZH2	impact of mutation on function
+EZH2	invasion and metastasis
+EZH2	mouse model
+EZH2	proliferative signalling
+EZH2	role in cancer
+EZH2	senescence
+EZH2	suppression of growth
+EZH2	tumour promoting inflammation
+EZH2	types of alteration in cancer
+EZR	escaping programmed cell death
+EZR	function summary
+EZR	fusion partner
+EZR	invasion and metastasis
+EZR	proliferative signalling
+EZR	role in cancer
+FANCD2	escaping programmed cell death
+FANCD2	function summary
+FANCD2	genome instability and mutations
+FANCD2	invasion and metastasis
+FANCD2	proliferative signalling
+FANCD2	role in cancer
+FANCD2	senescence
+FANCD2	tumour promoting inflammation
+FAS	cell replicative immortality
+FAS	escaping programmed cell death
+FAS	function summary
+FAS	invasion and metastasis
+FAS	proliferative signalling
+FAS	role in cancer
+FAT1	differentiation and development
+FAT1	escaping programmed cell death
+FAT1	function summary
+FAT1	impact of mutation on function
+FAT1	invasion and metastasis
+FAT1	role in cancer
+FAT1	suppression of growth
+FAT1	types of alteration in cancer
+FAT4	differentiation and development
+FAT4	function summary
+FAT4	invasion and metastasis
+FAT4	role in cancer
+FAT4	suppression of growth
+FAT4	types of alteration in cancer
+FBXO11	clinical impact
+FBXO11	differentiation and development
+FBXO11	escaping programmed cell death
+FBXO11	function summary
+FBXO11	impact of mutation on function
+FBXO11	invasion and metastasis
+FBXO11	mouse model
+FBXO11	proliferative signalling
+FBXO11	role in cancer
+FBXO11	types of alteration in cancer
+FBXW7	function summary
+FBXW7	genome instability and mutations
+FBXW7	impact of mutation on function
+FBXW7	role in cancer
+FCGR2B	escaping programmed cell death
+FCGR2B	function summary
+FCGR2B	fusion partner
+FCGR2B	role in cancer
+FCGR2B	suppression of growth
+FCGR2B	types of alteration in cancer
+FGFR1	cell replicative immortality
+FGFR1	differentiation and development
+FGFR1	function summary
+FGFR1	fusion partner
+FGFR1	impact of mutation on function
+FGFR1	invasion and metastasis
+FGFR1	proliferative signalling
+FGFR1	role in cancer
+FGFR1	types of alteration in cancer
+FGFR2	escaping programmed cell death
+FGFR2	function summary
+FGFR2	fusion partner
+FGFR2	impact of mutation on function
+FGFR2	invasion and metastasis
+FGFR2	proliferative signalling
+FGFR2	role in cancer
+FGFR2	types of alteration in cancer
+FGFR3	differentiation and development
+FGFR3	escaping programmed cell death
+FGFR3	function summary
+FGFR3	fusion partner
+FGFR3	impact of mutation on function
+FGFR3	proliferative signalling
+FGFR3	role in cancer
+FGFR3	types of alteration in cancer
+FGFR4	function summary
+FGFR4	impact of mutation on function
+FGFR4	invasion and metastasis
+FGFR4	proliferative signalling
+FGFR4	role in cancer
+FHIT	function summary
+FHIT	fusion partner
+FHIT	genome instability and mutations
+FHIT	invasion and metastasis
+FHIT	role in cancer
+FIP1L1	function summary
+FIP1L1	fusion partner
+FIP1L1	impact of mutation on function
+FIP1L1	role in cancer
+FLT3	escaping programmed cell death
+FLT3	function summary
+FLT3	impact of mutation on function
+FLT3	proliferative signalling
+FLT3	role in cancer
+FLT3	suppression of growth
+FLT3	types of alteration in cancer
+FLT4	escaping programmed cell death
+FLT4	invasion and metastasis
+FLT4	proliferative signalling
+FLT4	role in cancer
+FLT4	types of alteration in cancer
+FOXA1	function summary
+FOXA1	invasion and metastasis
+FOXA1	proliferative signalling
+FOXA1	role in cancer
+FOXA1	senescence
+FOXL2	cell division control
+FOXL2	differentiation and development
+FOXL2	escaping programmed cell death
+FOXL2	function summary
+FOXL2	genome instability and mutations
+FOXL2	global regulation of gene expression
+FOXL2	impact of mutation on function
+FOXL2	invasion and metastasis
+FOXL2	proliferative signalling
+FOXL2	role in cancer
+FOXL2	suppression of growth
+FOXL2	tumour promoting inflammation
+FOXL2	types of alteration in cancer
+FUBP1	escaping programmed cell death
+FUBP1	function summary
+FUBP1	interaction with pathogen
+FUBP1	invasion and metastasis
+FUBP1	proliferative signalling
+FUBP1	role in cancer
+FUS	function summary
+FUS	fusion partner
+FUS	impact of mutation on function
+FUS	invasion and metastasis
+FUS	role in cancer
+FUS	suppression of growth
+GAS7	differentiation and development
+GAS7	function summary
+GAS7	fusion partner
+GAS7	impact of mutation on function
+GAS7	invasion and metastasis
+GAS7	role in cancer
+GATA1	angiogenesis
+GATA1	cell division control
+GATA1	clinical impact
+GATA1	differentiation and development
+GATA1	escaping programmed cell death
+GATA1	function summary
+GATA1	fusion partner
+GATA1	global regulation of gene expression
+GATA1	impact of mutation on function
+GATA1	invasion and metastasis
+GATA1	mouse model
+GATA1	proliferative signalling
+GATA1	role in cancer
+GATA1	types of alteration in cancer
+GNA11	function summary
+GNA11	proliferative signalling
+GNA11	role in cancer
+GNA11	types of alteration in cancer
+GNAQ	function summary
+GNAQ	impact of mutation on function
+GNAQ	proliferative signalling
+GNAQ	role in cancer
+GNAQ	types of alteration in cancer
+GNAS	function summary
+GNAS	impact of mutation on function
+GNAS	proliferative signalling
+GNAS	role in cancer
+GNAS	suppression of growth
+GNAS	types of alteration in cancer
+GPC3	function summary
+GPC3	invasion and metastasis
+GPC3	role in cancer
+GPC3	suppression of growth
+GPC3	types of alteration in cancer
+GRIN2A	function summary
+GRIN2A	impact of mutation on function
+GRIN2A	invasion and metastasis
+GRIN2A	proliferative signalling
+GRIN2A	role in cancer
+GRIN2A	suppression of growth
+GRIN2A	types of alteration in cancer
+H3F3A	function summary
+H3F3A	global regulation of gene expression
+H3F3A	impact of mutation on function
+H3F3A	role in cancer
+H3F3A	types of alteration in cancer
+H3F3B	function summary
+H3F3B	global regulation of gene expression
+H3F3B	impact of mutation on function
+H3F3B	mouse model
+H3F3B	role in cancer
+H3F3B	types of alteration in cancer
+HEY1	cell replicative immortality
+HEY1	function summary
+HEY1	fusion partner
+HEY1	impact of mutation on function
+HEY1	proliferative signalling
+HEY1	role in cancer
+HIF1A	angiogenesis
+HIF1A	cell division control
+HIF1A	change of cellular energetics
+HIF1A	escaping immune response to cancer
+HIF1A	escaping programmed cell death
+HIF1A	function summary
+HIF1A	fusion partner
+HIF1A	impact of mutation on function
+HIF1A	invasion and metastasis
+HIF1A	role in cancer
+HIF1A	senescence
+HIF1A	types of alteration in cancer
+HIP1	escaping programmed cell death
+HIP1	function summary
+HIP1	fusion partner
+HIP1	impact of mutation on function
+HIP1	role in cancer
+HNF1A	escaping programmed cell death
+HNF1A	function summary
+HNF1A	invasion and metastasis
+HNF1A	role in cancer
+HNF1A	suppression of growth
+HNRNPA2B1	differentiation and development
+HNRNPA2B1	escaping programmed cell death
+HNRNPA2B1	function summary
+HNRNPA2B1	fusion partner
+HNRNPA2B1	invasion and metastasis
+HNRNPA2B1	proliferative signalling
+HNRNPA2B1	role in cancer
+HNRNPA2B1	tumour promoting inflammation
+HOXA11	differentiation and development
+HOXA11	escaping programmed cell death
+HOXA11	function summary
+HOXA11	fusion partner
+HOXA11	invasion and metastasis
+HOXA11	proliferative signalling
+HOXA11	role in cancer
+HOXA11	suppression of growth
+HRAS	angiogenesis
+HRAS	escaping immune response to cancer
+HRAS	escaping programmed cell death
+HRAS	function summary
+HRAS	genome instability and mutations
+HRAS	impact of mutation on function
+HRAS	invasion and metastasis
+HRAS	proliferative signalling
+HRAS	role in cancer
+HRAS	senescence
+HRAS	tumour promoting inflammation
+HRAS	types of alteration in cancer
+IDH1	function summary
+IDH1	global regulation of gene expression
+IDH1	impact of mutation on function
+IDH1	role in cancer
+IDH2	function summary
+IDH2	global regulation of gene expression
+IDH2	impact of mutation on function
+IDH2	role in cancer
+IGH	function summary
+IGH	fusion partner
+IGH	impact of mutation on function
+IGH	role in cancer
+IL6ST	function summary
+IL6ST	impact of mutation on function
+IL6ST	proliferative signalling
+IL6ST	role in cancer
+IL6ST	tumour promoting inflammation
+IL6ST	types of alteration in cancer
+JAK1	escaping immune response to cancer
+JAK1	escaping programmed cell death
+JAK1	function summary
+JAK1	impact of mutation on function
+JAK1	proliferative signalling
+JAK1	role in cancer
+JAK1	types of alteration in cancer
+JAK2	cell division control
+JAK2	change of cellular energetics
+JAK2	differentiation and development
+JAK2	escaping programmed cell death
+JAK2	function summary
+JAK2	fusion partner
+JAK2	global regulation of gene expression
+JAK2	impact of mutation on function
+JAK2	proliferative signalling
+JAK2	role in cancer
+JAK2	tumour promoting inflammation
+JAK2	types of alteration in cancer
+JAK3	differentiation and development
+JAK3	function summary
+JAK3	impact of mutation on function
+JAK3	proliferative signalling
+JAK3	role in cancer
+JAK3	types of alteration in cancer
+KDM6A	function summary
+KDM6A	global regulation of gene expression
+KDM6A	invasion and metastasis
+KDM6A	proliferative signalling
+KDM6A	role in cancer
+KDR	angiogenesis
+KDR	cell replicative immortality
+KDR	function summary
+KDR	invasion and metastasis
+KDR	mouse model
+KDR	proliferative signalling
+KDR	role in cancer
+KDR	tumour promoting inflammation
+KDR	types of alteration in cancer
+KEAP1	escaping programmed cell death
+KEAP1	function summary
+KEAP1	impact of mutation on function
+KEAP1	role in cancer
+KEAP1	types of alteration in cancer
+KIT	differentiation and development
+KIT	escaping programmed cell death
+KIT	function summary
+KIT	impact of mutation on function
+KIT	invasion and metastasis
+KIT	proliferative signalling
+KIT	role in cancer
+KIT	types of alteration in cancer
+KLF4	cell division control
+KLF4	cell replicative immortality
+KLF4	clinical impact
+KLF4	differentiation and development
+KLF4	escaping programmed cell death
+KLF4	function summary
+KLF4	impact of mutation on function
+KLF4	invasion and metastasis
+KLF4	proliferative signalling
+KLF4	role in cancer
+KLF4	suppression of growth
+KLF4	types of alteration in cancer
+KMT2C	cell replicative immortality
+KMT2C	clinical impact
+KMT2C	differentiation and development
+KMT2C	function summary
+KMT2C	genome instability and mutations
+KMT2C	global regulation of gene expression
+KMT2C	invasion and metastasis
+KMT2C	mouse model
+KMT2C	proliferative signalling
+KMT2C	role in cancer
+KMT2C	suppression of growth
+KMT2C	types of alteration in cancer
+KMT2D	cell replicative immortality
+KMT2D	change of cellular energetics
+KMT2D	clinical impact
+KMT2D	differentiation and development
+KMT2D	function summary
+KMT2D	global regulation of gene expression
+KMT2D	invasion and metastasis
+KMT2D	mouse model
+KMT2D	proliferative signalling
+KMT2D	role in cancer
+KMT2D	types of alteration in cancer
+KNL1	cell division control
+KNL1	escaping programmed cell death
+KNL1	function summary
+KNL1	fusion partner
+KNL1	genome instability and mutations
+KNL1	role in cancer
+KNL1	types of alteration in cancer
+KRAS	angiogenesis
+KRAS	cell replicative immortality
+KRAS	change of cellular energetics
+KRAS	differentiation and development
+KRAS	escaping programmed cell death
+KRAS	function summary
+KRAS	impact of mutation on function
+KRAS	invasion and metastasis
+KRAS	proliferative signalling
+KRAS	role in cancer
+KRAS	tumour promoting inflammation
+KRAS	types of alteration in cancer
+LATS1	cell division control
+LATS1	clinical impact
+LATS1	differentiation and development
+LATS1	escaping programmed cell death
+LATS1	function summary
+LATS1	genome instability and mutations
+LATS1	impact of mutation on function
+LATS1	mouse model
+LATS1	role in cancer
+LATS1	suppression of growth
+LATS1	types of alteration in cancer
+LATS2	cell division control
+LATS2	clinical impact
+LATS2	escaping programmed cell death
+LATS2	function summary
+LATS2	genome instability and mutations
+LATS2	invasion and metastasis
+LATS2	role in cancer
+LATS2	senescence
+LATS2	suppression of growth
+LATS2	types of alteration in cancer
+LCK	angiogenesis
+LCK	differentiation and development
+LCK	escaping programmed cell death
+LCK	function summary
+LCK	fusion partner
+LCK	proliferative signalling
+LCK	role in cancer
+LEF1	cell division control
+LEF1	differentiation and development
+LEF1	function summary
+LEF1	invasion and metastasis
+LEF1	mouse model
+LEF1	proliferative signalling
+LEF1	role in cancer
+LEF1	types of alteration in cancer
+LIFR	function summary
+LIFR	fusion partner
+LIFR	invasion and metastasis
+LIFR	role in cancer
+LIFR	types of alteration in cancer
+LMNA	function summary
+LMNA	fusion partner
+LMNA	genome instability and mutations
+LMNA	impact of mutation on function
+LMNA	role in cancer
+LMNA	types of alteration in cancer
+LRP1B	differentiation and development
+LRP1B	function summary
+LRP1B	invasion and metastasis
+LRP1B	role in cancer
+LRP1B	suppression of growth
+LZTR1	function summary
+LZTR1	role in cancer
+LZTR1	types of alteration in cancer
+MACC1	angiogenesis
+MACC1	clinical impact
+MACC1	escaping programmed cell death
+MACC1	function summary
+MACC1	invasion and metastasis
+MACC1	role in cancer
+MACC1	types of alteration in cancer
+MAP3K13	clinical impact
+MAP3K13	function summary
+MAP3K13	proliferative signalling
+MAP3K13	role in cancer
+MAP3K13	types of alteration in cancer
+MAP3K1	clinical impact
+MAP3K1	escaping programmed cell death
+MAP3K1	function summary
+MAP3K1	invasion and metastasis
+MAP3K1	mouse model
+MAP3K1	proliferative signalling
+MAP3K1	role in cancer
+MAP3K1	types of alteration in cancer
+MAPK1	change of cellular energetics
+MAPK1	escaping programmed cell death
+MAPK1	function summary
+MAPK1	impact of mutation on function
+MAPK1	invasion and metastasis
+MAPK1	role in cancer
+MAPK1	types of alteration in cancer
+MED12	function summary
+MED12	genome instability and mutations
+MED12	impact of mutation on function
+MED12	invasion and metastasis
+MED12	proliferative signalling
+MED12	role in cancer
+MED12	types of alteration in cancer
+MEN1	clinical impact
+MEN1	escaping programmed cell death
+MEN1	function summary
+MEN1	global regulation of gene expression
+MEN1	impact of mutation on function
+MEN1	mouse model
+MEN1	proliferative signalling
+MEN1	role in cancer
+MEN1	suppression of growth
+MEN1	types of alteration in cancer
+MET	angiogenesis
+MET	cell division control
+MET	clinical impact
+MET	differentiation and development
+MET	escaping immune response to cancer
+MET	escaping programmed cell death
+MET	function summary
+MET	fusion partner
+MET	genome instability and mutations
+MET	impact of mutation on function
+MET	invasion and metastasis
+MET	mouse model
+MET	proliferative signalling
+MET	role in cancer
+MET	senescence
+MET	types of alteration in cancer
+MLLT10	cell replicative immortality
+MLLT10	function summary
+MLLT10	fusion partner
+MLLT10	global regulation of gene expression
+MLLT10	role in cancer
+MTOR	angiogenesis
+MTOR	cell division control
+MTOR	change of cellular energetics
+MTOR	escaping programmed cell death
+MTOR	function summary
+MTOR	impact of mutation on function
+MTOR	invasion and metastasis
+MTOR	proliferative signalling
+MTOR	role in cancer
+MTOR	types of alteration in cancer
+MYC	angiogenesis
+MYC	cell division control
+MYC	cell replicative immortality
+MYC	change of cellular energetics
+MYC	differentiation and development
+MYC	escaping immune response to cancer
+MYC	escaping programmed cell death
+MYC	function summary
+MYC	fusion partner
+MYC	genome instability and mutations
+MYC	global regulation of gene expression
+MYC	impact of mutation on function
+MYC	invasion and metastasis
+MYC	proliferative signalling
+MYC	role in cancer
+MYC	types of alteration in cancer
+MYD88	clinical impact
+MYD88	escaping programmed cell death
+MYD88	function summary
+MYD88	impact of mutation on function
+MYD88	interaction with pathogen
+MYD88	invasion and metastasis
+MYD88	mouse model
+MYD88	proliferative signalling
+MYD88	role in cancer
+MYD88	tumour promoting inflammation
+MYD88	types of alteration in cancer
+NAB2	angiogenesis
+NAB2	function summary
+NAB2	fusion partner
+NAB2	role in cancer
+NAB2	types of alteration in cancer
+NCOR2	cell division control
+NCOR2	escaping programmed cell death
+NCOR2	function summary
+NCOR2	genome instability and mutations
+NCOR2	global regulation of gene expression
+NCOR2	impact of mutation on function
+NCOR2	role in cancer
+NCOR2	suppression of growth
+NCOR2	types of alteration in cancer
+NDRG1	cell replicative immortality
+NDRG1	function summary
+NDRG1	fusion partner
+NDRG1	invasion and metastasis
+NDRG1	proliferative signalling
+NDRG1	role in cancer
+NDRG1	suppression of growth
+NF1	angiogenesis
+NF1	differentiation and development
+NF1	escaping programmed cell death
+NF1	function summary
+NF1	fusion partner
+NF1	invasion and metastasis
+NF1	role in cancer
+NF1	senescence
+NF1	suppression of growth
+NF2	change of cellular energetics
+NF2	function summary
+NF2	invasion and metastasis
+NF2	mouse model
+NF2	role in cancer
+NF2	suppression of growth
+NFE2L2	change of cellular energetics
+NFE2L2	escaping programmed cell death
+NFE2L2	function summary
+NFE2L2	impact of mutation on function
+NFE2L2	role in cancer
+NFE2L2	types of alteration in cancer
+NONO	cell division control
+NONO	change of cellular energetics
+NONO	function summary
+NONO	fusion partner
+NONO	invasion and metastasis
+NONO	proliferative signalling
+NONO	role in cancer
+NOTCH1	angiogenesis
+NOTCH1	cell replicative immortality
+NOTCH1	change of cellular energetics
+NOTCH1	clinical impact
+NOTCH1	differentiation and development
+NOTCH1	escaping programmed cell death
+NOTCH1	function summary
+NOTCH1	fusion partner
+NOTCH1	global regulation of gene expression
+NOTCH1	impact of mutation on function
+NOTCH1	proliferative signalling
+NOTCH1	role in cancer
+NOTCH1	senescence
+NOTCH1	types of alteration in cancer
+NOTCH2	clinical impact
+NOTCH2	differentiation and development
+NOTCH2	escaping programmed cell death
+NOTCH2	function summary
+NOTCH2	impact of mutation on function
+NOTCH2	invasion and metastasis
+NOTCH2	mouse model
+NOTCH2	proliferative signalling
+NOTCH2	role in cancer
+NOTCH2	suppression of growth
+NOTCH2	types of alteration in cancer
+NPM1	cell division control
+NPM1	change of cellular energetics
+NPM1	clinical impact
+NPM1	differentiation and development
+NPM1	escaping programmed cell death
+NPM1	function summary
+NPM1	fusion partner
+NPM1	genome instability and mutations
+NPM1	impact of mutation on function
+NPM1	interaction with pathogen
+NPM1	invasion and metastasis
+NPM1	proliferative signalling
+NPM1	role in cancer
+NPM1	senescence
+NPM1	suppression of growth
+NPM1	types of alteration in cancer
+NRAS	cell replicative immortality
+NRAS	escaping programmed cell death
+NRAS	function summary
+NRAS	impact of mutation on function
+NRAS	invasion and metastasis
+NRAS	proliferative signalling
+NRAS	role in cancer
+NRAS	types of alteration in cancer
+NT5C2	clinical impact
+NT5C2	escaping programmed cell death
+NT5C2	function summary
+NT5C2	impact of mutation on function
+NT5C2	mouse model
+NT5C2	proliferative signalling
+NT5C2	role in cancer
+NT5C2	types of alteration in cancer
+PAFAH1B2	change of cellular energetics
+PAFAH1B2	function summary
+PAFAH1B2	fusion partner
+PAFAH1B2	role in cancer
+PAFAH1B2	types of alteration in cancer
+PAX3	escaping programmed cell death
+PAX3	function summary
+PAX3	fusion partner
+PAX3	impact of mutation on function
+PAX3	invasion and metastasis
+PAX3	proliferative signalling
+PAX3	role in cancer
+PAX3	suppression of growth
+PAX5	differentiation and development
+PAX5	escaping programmed cell death
+PAX5	function summary
+PAX5	fusion partner
+PAX5	invasion and metastasis
+PAX5	proliferative signalling
+PAX5	role in cancer
+PAX5	types of alteration in cancer
+PAX7	differentiation and development
+PAX7	function summary
+PAX7	fusion partner
+PAX7	invasion and metastasis
+PAX7	proliferative signalling
+PAX7	role in cancer
+PAX8	escaping programmed cell death
+PAX8	function summary
+PAX8	fusion partner
+PAX8	impact of mutation on function
+PAX8	invasion and metastasis
+PAX8	proliferative signalling
+PAX8	role in cancer
+PBRM1	change of cellular energetics
+PBRM1	clinical impact
+PBRM1	differentiation and development
+PBRM1	escaping immune response to cancer
+PBRM1	escaping programmed cell death
+PBRM1	function summary
+PBRM1	genome instability and mutations
+PBRM1	global regulation of gene expression
+PBRM1	impact of mutation on function
+PBRM1	invasion and metastasis
+PBRM1	mouse model
+PBRM1	role in cancer
+PBRM1	senescence
+PBRM1	suppression of growth
+PBRM1	tumour promoting inflammation
+PBRM1	types of alteration in cancer
+PBX1	angiogenesis
+PBX1	change of cellular energetics
+PBX1	differentiation and development
+PBX1	escaping programmed cell death
+PBX1	function summary
+PBX1	fusion partner
+PBX1	role in cancer
+PDCD1LG2	function summary
+PDCD1LG2	fusion partner
+PDCD1LG2	impact of mutation on function
+PDCD1LG2	role in cancer
+PDCD1LG2	suppression of growth
+PDGFRA	angiogenesis
+PDGFRA	clinical impact
+PDGFRA	differentiation and development
+PDGFRA	escaping programmed cell death
+PDGFRA	function summary
+PDGFRA	fusion partner
+PDGFRA	impact of mutation on function
+PDGFRA	invasion and metastasis
+PDGFRA	proliferative signalling
+PDGFRA	role in cancer
+PDGFRA	suppression of growth
+PDGFRA	types of alteration in cancer
+PER1	escaping programmed cell death
+PER1	function summary
+PER1	fusion partner
+PER1	impact of mutation on function
+PER1	role in cancer
+PER1	suppression of growth
+PER1	types of alteration in cancer
+PHOX2B	differentiation and development
+PHOX2B	function summary
+PHOX2B	impact of mutation on function
+PHOX2B	invasion and metastasis
+PHOX2B	role in cancer
+PHOX2B	suppression of growth
+PICALM	change of cellular energetics
+PICALM	differentiation and development
+PICALM	function summary
+PICALM	fusion partner
+PICALM	impact of mutation on function
+PICALM	role in cancer
+PIK3CA	angiogenesis
+PIK3CA	differentiation and development
+PIK3CA	escaping programmed cell death
+PIK3CA	function summary
+PIK3CA	impact of mutation on function
+PIK3CA	invasion and metastasis
+PIK3CA	proliferative signalling
+PIK3CA	role in cancer
+PIK3CA	types of alteration in cancer
+PIK3CB	cell division control
+PIK3CB	escaping programmed cell death
+PIK3CB	function summary
+PIK3CB	genome instability and mutations
+PIK3CB	impact of mutation on function
+PIK3R1	cell replicative immortality
+PIK3R1	function summary
+PIK3R1	impact of mutation on function
+PIK3R1	invasion and metastasis
+PIK3R1	role in cancer
+PIK3R1	suppression of growth
+PIM1	angiogenesis
+PIM1	change of cellular energetics
+PIM1	escaping programmed cell death
+PIM1	function summary
+PIM1	fusion partner
+PIM1	invasion and metastasis
+PIM1	proliferative signalling
+PIM1	role in cancer
+PLCG1	angiogenesis
+PLCG1	cell division control
+PLCG1	escaping programmed cell death
+PLCG1	function summary
+PLCG1	impact of mutation on function
+PLCG1	invasion and metastasis
+PLCG1	proliferative signalling
+PLCG1	role in cancer
+PLCG1	types of alteration in cancer
+PMS2	escaping programmed cell death
+PMS2	function summary
+PMS2	genome instability and mutations
+PMS2	invasion and metastasis
+PMS2	role in cancer
+PMS2	suppression of growth
+PMS2	types of alteration in cancer
+POT1	clinical impact
+POT1	function summary
+POT1	genome instability and mutations
+POT1	impact of mutation on function
+POT1	senescence
+POT1	types of alteration in cancer
+POU2AF1	differentiation and development
+POU2AF1	function summary
+POU2AF1	fusion partner
+POU2AF1	proliferative signalling
+POU2AF1	role in cancer
+POU5F1	cell replicative immortality
+POU5F1	function summary
+POU5F1	fusion partner
+POU5F1	impact of mutation on function
+POU5F1	invasion and metastasis
+POU5F1	proliferative signalling
+POU5F1	role in cancer
+PPARG	change of cellular energetics
+PPARG	function summary
+PPARG	fusion partner
+PPARG	proliferative signalling
+PPARG	role in cancer
+PPARG	suppression of growth
+PPM1D	cell division control
+PPM1D	escaping programmed cell death
+PPM1D	function summary
+PPM1D	genome instability and mutations
+PPM1D	impact of mutation on function
+PPM1D	proliferative signalling
+PPM1D	role in cancer
+PPM1D	types of alteration in cancer
+PPP6C	cell division control
+PPP6C	function summary
+PPP6C	genome instability and mutations
+PPP6C	impact of mutation on function
+PPP6C	role in cancer
+PRDM16	differentiation and development
+PRDM16	escaping programmed cell death
+PRDM16	function summary
+PRDM16	fusion partner
+PRDM16	mouse model
+PRDM16	role in cancer
+PREX2	function summary
+PREX2	impact of mutation on function
+PREX2	invasion and metastasis
+PREX2	role in cancer
+PREX2	types of alteration in cancer
+PRKACA	escaping programmed cell death
+PRKACA	function summary
+PRKACA	fusion partner
+PRKACA	impact of mutation on function
+PRKACA	proliferative signalling
+PRKACA	role in cancer
+PRKACA	types of alteration in cancer
+PRKAR1A	escaping programmed cell death
+PRKAR1A	function summary
+PRKAR1A	fusion partner
+PRKAR1A	invasion and metastasis
+PRKAR1A	proliferative signalling
+PRKAR1A	role in cancer
+PSIP1	differentiation and development
+PSIP1	escaping programmed cell death
+PSIP1	function summary
+PSIP1	fusion partner
+PSIP1	genome instability and mutations
+PSIP1	invasion and metastasis
+PSIP1	role in cancer
+PSIP1	types of alteration in cancer
+PTEN	cell division control
+PTEN	cell replicative immortality
+PTEN	change of cellular energetics
+PTEN	differentiation and development
+PTEN	escaping immune response to cancer
+PTEN	escaping programmed cell death
+PTEN	function summary
+PTEN	genome instability and mutations
+PTEN	impact of mutation on function
+PTEN	invasion and metastasis
+PTEN	role in cancer
+PTEN	senescence
+PTEN	suppression of growth
+PTEN	types of alteration in cancer
+PTK6	cell division control
+PTK6	differentiation and development
+PTK6	escaping programmed cell death
+PTK6	function summary
+PTK6	invasion and metastasis
+PTK6	proliferative signalling
+PTK6	role in cancer
+PTK6	suppression of growth
+PTPN11	angiogenesis
+PTPN11	cell division control
+PTPN11	change of cellular energetics
+PTPN11	clinical impact
+PTPN11	differentiation and development
+PTPN11	escaping immune response to cancer
+PTPN11	escaping programmed cell death
+PTPN11	function summary
+PTPN11	genome instability and mutations
+PTPN11	global regulation of gene expression
+PTPN11	impact of mutation on function
+PTPN11	interaction with pathogen
+PTPN11	invasion and metastasis
+PTPN11	mouse model
+PTPN11	proliferative signalling
+PTPN11	role in cancer
+PTPN11	senescence
+PTPN11	suppression of growth
+PTPN11	tumour promoting inflammation
+PTPN11	types of alteration in cancer
+PTPN13	clinical impact
+PTPN13	escaping programmed cell death
+PTPN13	function summary
+PTPN13	impact of mutation on function
+PTPN13	invasion and metastasis
+PTPN13	role in cancer
+PTPN13	types of alteration in cancer
+PTPRB	angiogenesis
+PTPRB	clinical impact
+PTPRB	differentiation and development
+PTPRB	function summary
+PTPRB	invasion and metastasis
+PTPRB	role in cancer
+PTPRB	suppression of growth
+PTPRB	tumour promoting inflammation
+PTPRB	types of alteration in cancer
+PTPRT	function summary
+PTPRT	impact of mutation on function
+PTPRT	role in cancer
+PTPRT	suppression of growth
+PTPRT	types of alteration in cancer
+QKI	escaping programmed cell death
+QKI	function summary
+QKI	fusion partner
+QKI	impact of mutation on function
+QKI	role in cancer
+QKI	suppression of growth
+QKI	types of alteration in cancer
+RABEP1	function summary
+RABEP1	fusion partner
+RABEP1	impact of mutation on function
+RABEP1	invasion and metastasis
+RABEP1	role in cancer
+RABEP1	suppression of growth
+RAC1	angiogenesis
+RAC1	escaping immune response to cancer
+RAC1	escaping programmed cell death
+RAC1	function summary
+RAC1	genome instability and mutations
+RAC1	invasion and metastasis
+RAC1	proliferative signalling
+RAC1	role in cancer
+RAD21	cell division control
+RAD21	escaping programmed cell death
+RAD21	function summary
+RAD21	genome instability and mutations
+RAD21	invasion and metastasis
+RAD21	role in cancer
+RAD21	senescence
+RAF1	angiogenesis
+RAF1	cell division control
+RAF1	escaping programmed cell death
+RAF1	function summary
+RAF1	fusion partner
+RAF1	impact of mutation on function
+RAF1	invasion and metastasis
+RAF1	proliferative signalling
+RAF1	role in cancer
+RANBP2	function summary
+RANBP2	fusion partner
+RANBP2	genome instability and mutations
+RANBP2	role in cancer
+RAP1GDS1	function summary
+RAP1GDS1	fusion partner
+RAP1GDS1	invasion and metastasis
+RAP1GDS1	proliferative signalling
+RAP1GDS1	role in cancer
+RB1	cell division control
+RB1	change of cellular energetics
+RB1	differentiation and development
+RB1	escaping immune response to cancer
+RB1	escaping programmed cell death
+RB1	function summary
+RB1	genome instability and mutations
+RB1	global regulation of gene expression
+RB1	impact of mutation on function
+RB1	invasion and metastasis
+RB1	role in cancer
+RB1	senescence
+RB1	suppression of growth
+RB1	types of alteration in cancer
+RBM10	escaping programmed cell death
+RBM10	function summary
+RBM10	impact of mutation on function
+RBM10	role in cancer
+RBM10	suppression of growth
+RBM10	types of alteration in cancer
+RBM15	differentiation and development
+RBM15	function summary
+RBM15	fusion partner
+RBM15	impact of mutation on function
+RBM15	role in cancer
+RECQL4	cell division control
+RECQL4	escaping programmed cell death
+RECQL4	function summary
+RECQL4	genome instability and mutations
+RECQL4	invasion and metastasis
+RECQL4	role in cancer
+RECQL4	types of alteration in cancer
+RET	differentiation and development
+RET	escaping immune response to cancer
+RET	escaping programmed cell death
+RET	function summary
+RET	fusion partner
+RET	impact of mutation on function
+RET	invasion and metastasis
+RET	mouse model
+RET	proliferative signalling
+RET	role in cancer
+RET	tumour promoting inflammation
+RET	types of alteration in cancer
+RHOA	escaping programmed cell death
+RHOA	function summary
+RHOA	genome instability and mutations
+RHOA	invasion and metastasis
+RHOA	role in cancer
+RHOA	suppression of growth
+RHOA	tumour promoting inflammation
+RHOH	differentiation and development
+RHOH	escaping programmed cell death
+RHOH	function summary
+RHOH	fusion partner
+RHOH	invasion and metastasis
+RHOH	role in cancer
+RHOH	suppression of growth
+RNF213	angiogenesis
+RNF213	function summary
+RNF213	fusion partner
+RNF213	impact of mutation on function
+RNF213	role in cancer
+RNF43	cell replicative immortality
+RNF43	escaping programmed cell death
+RNF43	function summary
+RNF43	impact of mutation on function
+RNF43	role in cancer
+RNF43	suppression of growth
+ROS1	differentiation and development
+ROS1	function summary
+ROS1	fusion partner
+ROS1	impact of mutation on function
+ROS1	proliferative signalling
+ROS1	role in cancer
+RUNX1T1	angiogenesis
+RUNX1T1	differentiation and development
+RUNX1T1	function summary
+RUNX1T1	global regulation of gene expression
+RUNX1T1	impact of mutation on function
+RUNX1T1	role in cancer
+RUNX1T1	suppression of growth
+SDHA	angiogenesis
+SDHA	change of cellular energetics
+SDHA	function summary
+SDHA	role in cancer
+SDHA	types of alteration in cancer
+SETDB1	cell replicative immortality
+SETDB1	clinical impact
+SETDB1	differentiation and development
+SETDB1	escaping immune response to cancer
+SETDB1	escaping programmed cell death
+SETDB1	function summary
+SETDB1	invasion and metastasis
+SETDB1	proliferative signalling
+SETDB1	role in cancer
+SETDB1	types of alteration in cancer
+SF3B1	differentiation and development
+SF3B1	escaping programmed cell death
+SF3B1	function summary
+SF3B1	global regulation of gene expression
+SF3B1	impact of mutation on function
+SF3B1	role in cancer
+SF3B1	types of alteration in cancer
+SFPQ	escaping programmed cell death
+SFPQ	function summary
+SFPQ	fusion partner
+SFPQ	role in cancer
+SIX1	angiogenesis
+SIX1	cell replicative immortality
+SIX1	change of cellular energetics
+SIX1	clinical impact
+SIX1	escaping programmed cell death
+SIX1	function summary
+SIX1	genome instability and mutations
+SIX1	impact of mutation on function
+SIX1	invasion and metastasis
+SIX1	proliferative signalling
+SIX1	role in cancer
+SIX1	senescence
+SIX1	types of alteration in cancer
+SLC34A2	cell replicative immortality
+SLC34A2	function summary
+SLC34A2	fusion partner
+SLC34A2	invasion and metastasis
+SLC34A2	proliferative signalling
+SLC34A2	role in cancer
+SLC34A2	suppression of growth
+SLC45A3	function summary
+SLC45A3	fusion partner
+SLC45A3	impact of mutation on function
+SLC45A3	role in cancer
+SLC45A3	types of alteration in cancer
+SMAD2	cell replicative immortality
+SMAD2	differentiation and development
+SMAD2	escaping programmed cell death
+SMAD2	function summary
+SMAD2	impact of mutation on function
+SMAD2	invasion and metastasis
+SMAD2	role in cancer
+SMAD2	suppression of growth
+SMAD2	types of alteration in cancer
+SMAD3	differentiation and development
+SMAD3	escaping programmed cell death
+SMAD3	function summary
+SMAD3	invasion and metastasis
+SMAD3	proliferative signalling
+SMAD3	role in cancer
+SMAD3	suppression of growth
+SMAD4	angiogenesis
+SMAD4	clinical impact
+SMAD4	function summary
+SMAD4	genome instability and mutations
+SMAD4	impact of mutation on function
+SMAD4	invasion and metastasis
+SMAD4	mouse model
+SMAD4	role in cancer
+SMAD4	suppression of growth
+SMAD4	tumour promoting inflammation
+SMAD4	types of alteration in cancer
+SPOP	escaping programmed cell death
+SPOP	function summary
+SPOP	genome instability and mutations
+SPOP	impact of mutation on function
+SPOP	invasion and metastasis
+SPOP	role in cancer
+SPOP	suppression of growth
+STAG2	cell division control
+STAG2	cell replicative immortality
+STAG2	clinical impact
+STAG2	differentiation and development
+STAG2	function summary
+STAG2	genome instability and mutations
+STAG2	impact of mutation on function
+STAG2	role in cancer
+STAG2	types of alteration in cancer
+SUZ12	function summary
+SUZ12	fusion partner
+SUZ12	invasion and metastasis
+SUZ12	proliferative signalling
+SUZ12	role in cancer
+SUZ12	types of alteration in cancer
+TBL1XR1	function summary
+TBL1XR1	fusion partner
+TBL1XR1	impact of mutation on function
+TBL1XR1	invasion and metastasis
+TBL1XR1	proliferative signalling
+TBL1XR1	role in cancer
+TBL1XR1	suppression of growth
+TCF7L2	escaping programmed cell death
+TCF7L2	function summary
+TCF7L2	fusion partner
+TCF7L2	invasion and metastasis
+TCF7L2	proliferative signalling
+TCF7L2	role in cancer
+TCL1A	escaping programmed cell death
+TCL1A	function summary
+TCL1A	fusion partner
+TCL1A	global regulation of gene expression
+TCL1A	proliferative signalling
+TCL1A	role in cancer
+TCL1A	types of alteration in cancer
+TERT	angiogenesis
+TERT	cell replicative immortality
+TERT	escaping programmed cell death
+TERT	function summary
+TERT	genome instability and mutations
+TERT	invasion and metastasis
+TERT	proliferative signalling
+TERT	role in cancer
+TERT	senescence
+TERT	types of alteration in cancer
+TET1	escaping programmed cell death
+TET1	function summary
+TET1	fusion partner
+TET1	global regulation of gene expression
+TET1	invasion and metastasis
+TET1	role in cancer
+TET1	suppression of growth
+TET2	change of cellular energetics
+TET2	clinical impact
+TET2	differentiation and development
+TET2	function summary
+TET2	genome instability and mutations
+TET2	global regulation of gene expression
+TET2	impact of mutation on function
+TET2	invasion and metastasis
+TET2	mouse model
+TET2	proliferative signalling
+TET2	role in cancer
+TET2	suppression of growth
+TET2	types of alteration in cancer
+TFE3	change of cellular energetics
+TFE3	function summary
+TFE3	fusion partner
+TFE3	role in cancer
+TGFBR2	function summary
+TGFBR2	impact of mutation on function
+TGFBR2	invasion and metastasis
+TGFBR2	mouse model
+TGFBR2	role in cancer
+TGFBR2	suppression of growth
+TGFBR2	types of alteration in cancer
+TMPRSS2	function summary
+TMPRSS2	fusion partner
+TMPRSS2	impact of mutation on function
+TMPRSS2	role in cancer
+TNFAIP3	escaping immune response to cancer
+TNFAIP3	function summary
+TNFAIP3	role in cancer
+TNFAIP3	tumour promoting inflammation
+TP53	angiogenesis
+TP53	cell division control
+TP53	cell replicative immortality
+TP53	change of cellular energetics
+TP53	differentiation and development
+TP53	escaping immune response to cancer
+TP53	escaping programmed cell death
+TP53	function summary
+TP53	fusion partner
+TP53	genome instability and mutations
+TP53	impact of mutation on function
+TP53	interaction with pathogen
+TP53	invasion and metastasis
+TP53	role in cancer
+TP53	senescence
+TP53	suppression of growth
+TP53	tumour promoting inflammation
+TP53	types of alteration in cancer
+TP63	cell division control
+TP63	differentiation and development
+TP63	escaping programmed cell death
+TP63	function summary
+TP63	fusion partner
+TP63	impact of mutation on function
+TP63	invasion and metastasis
+TP63	proliferative signalling
+TP63	role in cancer
+TP63	types of alteration in cancer
+TRAF7	clinical impact
+TRAF7	escaping programmed cell death
+TRAF7	function summary
+TRAF7	impact of mutation on function
+TRAF7	role in cancer
+TRAF7	types of alteration in cancer
+UBR5	angiogenesis
+UBR5	clinical impact
+UBR5	differentiation and development
+UBR5	escaping programmed cell death
+UBR5	function summary
+UBR5	genome instability and mutations
+UBR5	invasion and metastasis
+UBR5	proliferative signalling
+UBR5	role in cancer
+UBR5	types of alteration in cancer
+USP8	change of cellular energetics
+USP8	function summary
+USP8	genome instability and mutations
+USP8	impact of mutation on function
+USP8	role in cancer
+VHL	angiogenesis
+VHL	change of cellular energetics
+VHL	escaping programmed cell death
+VHL	function summary
+VHL	invasion and metastasis
+VHL	role in cancer
+VHL	senescence
+VHL	suppression of growth
+WAS	function summary
+WAS	invasion and metastasis
+WAS	role in cancer
+WIF1	cell replicative immortality
+WIF1	function summary
+WIF1	fusion partner
+WIF1	role in cancer
+WIF1	senescence
+XPA	function summary
+XPO1	escaping programmed cell death
+XPO1	function summary
+XPO1	proliferative signalling
+XPO1	role in cancer
+ZBTB16	cell replicative immortality
+ZBTB16	function summary
+ZBTB16	fusion partner
+ZBTB16	role in cancer
+ZBTB16	types of alteration in cancer
+ZFHX3	function summary
+ZFHX3	impact of mutation on function
+ZFHX3	role in cancer
+ZFHX3	suppression of growth
+ZFHX3	types of alteration in cancer
+ZRSR2	clinical impact
+ZRSR2	differentiation and development
+ZRSR2	function summary
+ZRSR2	global regulation of gene expression
+ZRSR2	impact of mutation on function
+ZRSR2	role in cancer
+ZRSR2	types of alteration in cancer
