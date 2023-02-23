@@ -1,0 +1,10 @@
+,downregulated.wound,upregulated.stress,downregulated.regen,msigdb.wound,msigdb.regen,upregulated.regen,upregulated.wound,msigdb.stress,downregulated.stress
+downregulated.wound,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+upregulated.stress,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+downregulated.regen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+msigdb.wound,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+msigdb.regen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+upregulated.regen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+upregulated.wound,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+msigdb.stress,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+downregulated.stress,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

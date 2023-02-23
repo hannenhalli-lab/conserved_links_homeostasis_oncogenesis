@@ -1,0 +1,3 @@
+#!/bin/bash
+module load python
+python /data/timonaj/cancer_as_wound/ppi_analysis/compute_fractions.py ../wgcna_tutorial/unweighted_pan_tissue_paths.3.dictionary /data/timonaj/cancer_as_wound/ppi_analysis/total_spec_exp_genes/mmusculus_stress_up.txt mmusculus_stress_up /data/timonaj/cancer_as_wound/ppi_analysis/fractions_data/ pan_tissue_unweighted_3

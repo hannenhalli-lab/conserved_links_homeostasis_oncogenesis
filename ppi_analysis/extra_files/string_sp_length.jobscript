@@ -1,0 +1,3 @@
+#!/bin/bash
+module load python
+python ./compute_STRING_sp_lengths.py
