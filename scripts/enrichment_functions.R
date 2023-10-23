@@ -1,15 +1,7 @@
-library(BiocManager)
-library(msigdbr)
-library(ggplot2)
-library(stats)
-library(sets)
-library(biomaRt)
-library(clusterProfiler)
-library(data.table)
-library(stringi)
-library(pheatmap)
-library(tidyr)
-library(ggpubr)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(biomaRt, BiocManager, stats, sets, stringi,
+               ggplot2, tidyr, data.table, clusterProfiler,
+               stringr, msigdbr, ggpubr, pheatmap) 
 
 # go
 go_gene_sets <- msigdbr(species = "Homo sapiens", category = "C5")
@@ -35,10 +27,96 @@ c4_gene_sets <- msigdbr(species = "Homo sapiens", category = "C4", subcategory =
 unique_c4_genes <- unique(c4_gene_sets$gene_symbol)
 
 ## cosmic
-cosmic_set <- fread("cancer_gene_census.csv")
+cosmic_set <- fread("../data/gene_sets/cancer_gene_census.csv")
 unique_cosmic_genes <- unique(cosmic_set$`Gene Symbol`)
 
+## total
+total_msigdbr <- msigdbr(species = "Homo sapiens")
+
+# inflammation signature
+print('###################################')
+inflam_signature <- total_msigdbr$gene_symbol[grep("inflam",total_msigdbr$gs_name, ignore.case=T)]
+print(paste("Total inflam Signature:",length(inflam_signature),sep=" "))
+inflam_signature_union <- unique(inflam_signature)
+print(paste("inflam Signature Union:",length(inflam_signature_union),sep=" "))
+inflam_signature_recurrent <- sort(table(inflam_signature), decreasing = TRUE)
+inflam_signature_recurrent <- inflam_signature_recurrent[inflam_signature_recurrent >1]
+print(paste("inflam Signature Recurrent:",length(inflam_signature_recurrent),sep=" "))
+
+# stress signature
+print('###################################')
+stress_signature <- total_msigdbr$gene_symbol[grep("stress",total_msigdbr$gs_name, ignore.case=T)]
+print(paste("Total Stress Signature:",length(stress_signature),sep=" "))
+stress_signature_union <- unique(stress_signature)
+print(paste("Stress Signature Union:",length(stress_signature_union),sep=" "))
+stress_signature_recurrent <- sort(table(stress_signature), decreasing = TRUE)
+stress_signature_recurrent <- stress_signature_recurrent[stress_signature_recurrent >1]
+print(paste("Stress Signature Recurrent:",length(stress_signature_recurrent),sep=" "))
+print(paste("Stress Signature Unique:",length(unique(total_msigdbr$gs_name[grep("stress",total_msigdbr$gs_name, ignore.case=T)])), sep=" "))
+
+# wound signature
+print('###################################')
+wound_signature <- total_msigdbr$gene_symbol[grep("wound",total_msigdbr$gs_name, ignore.case=T)]
+print(paste("Total Wound Signature:",length(wound_signature),sep=" "))
+wound_signature_union <- unique(wound_signature)
+print(paste("Wound Signature Union:",length(wound_signature_union),sep=" "))
+wound_signature_recurrent <- sort(table(wound_signature), decreasing = TRUE)
+wound_signature_recurrent <- wound_signature_recurrent[wound_signature_recurrent >1]
+print(paste("Wound Signature Recurrent:",length(wound_signature_recurrent),sep=" "))
+print(paste("Wound Healing Signature Unique:",length(unique(total_msigdbr$gs_name[grep("wound",total_msigdbr$gs_name, ignore.case=T)])), sep=" "))
+
+# regen signature
+print('###################################')
+regen_signature <- total_msigdbr$gene_symbol[grep("regen",total_msigdbr$gs_name, ignore.case=T)]
+print(paste("Total Regen Signature:",length(regen_signature),sep=" "))
+regen_signature_union <- unique(regen_signature)
+print(paste("Regen Signature Union:",length(regen_signature_union),sep=" "))
+regen_signature_recurrent <- sort(table(regen_signature), decreasing = TRUE)
+regen_signature_recurrent <- regen_signature_recurrent[regen_signature_recurrent >1]
+print(paste("Regen Signature Recurrent:",length(regen_signature_recurrent),sep=" "))
+print(paste("Regeneration Signature Unique:",length(unique(total_msigdbr$gs_name[grep("regen",total_msigdbr$gs_name, ignore.case=T)])), sep=" "))
+
+print('###################################')
+
+# unions
+# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
+# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
+combined_unions <- unlist(exp_wrs_list, recursive=F)
+combined_unions[["msigdb.regen"]] <- regen_signature_union
+combined_unions[["msigdb.wound"]] <- wound_signature_union
+combined_unions[["msigdb.stress"]] <- stress_signature_union
+
+# immediate unions
+# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
+# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
+immediate_combined_unions <- unlist(exp_immediate_list, recursive=F)
+immediate_combined_unions[["msigdb.regen"]] <- regen_signature_union
+immediate_combined_unions[["msigdb.wound"]] <- wound_signature_union
+immediate_combined_unions[["msigdb.stress"]] <- stress_signature_union
+
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
+
+# reccurent sets
+# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
+combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
+combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
+combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
+#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
+
+# immediate reccurent sets
+# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+immediate_combined_recurrent <- unlist(recurrent_exp_immediate_list, recursive=F)
+immediate_combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
+immediate_combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
+immediate_combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
+#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
+
 # +
+human <- readRDS("../data/biomart_orthologs/human.RDS")
  total_msigdbr <- msigdbr(species = "Homo sapiens")
  unique_total_msigdbr <- unique(total_msigdbr$gene_symbol)
  print(paste("Total H Gene Set Genes:", length(unique_total_msigdbr), sep = " "))
@@ -401,7 +479,7 @@ exp_immediate_list <- list("upregulated" = list(),
 recurrent_exp_immediate_list <- list("upregulated" = list(),
                            "downregulated" = list())
 
-wrs_files <-list.files('/data/timonaj/cancer_as_wound/geo_degs/')
+wrs_files <-list.files('../data/geo_degs/')
 wrs_foi <- wrs_files[grep("^[a-z].*", wrs_files)]
 species_exptype <- unique(sub('_[A-Z].*$', '',wrs_foi))
 exptype <- unique(sub('^[a-z].*_','',species_exptype))
@@ -411,7 +489,7 @@ length(species_exptype)
 library(stringr)
 length(unique(sapply(wrs_foi, FUN=function(x){str_split(x, "_")[[1]][3]})))
 
-immediate_files <-list.files('/data/timonaj/cancer_as_wound/immediate_genes/')
+immediate_files <-list.files('../data/immediate_genes/')
 immediate_foi <- immediate_files[grep("^[a-z].*", immediate_files)]
 immediate_species_exptype <- unique(sub('_[A-Z].*$', '',immediate_foi))
 immediate_exptype <- unique(sub('^[a-z].*_','',immediate_species_exptype))
