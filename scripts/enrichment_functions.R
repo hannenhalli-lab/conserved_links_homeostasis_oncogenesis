@@ -78,43 +78,6 @@ print(paste("Regeneration Signature Unique:",length(unique(total_msigdbr$gs_name
 
 print('###################################')
 
-# unions
-# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
-# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
-combined_unions <- unlist(exp_wrs_list, recursive=F)
-combined_unions[["msigdb.regen"]] <- regen_signature_union
-combined_unions[["msigdb.wound"]] <- wound_signature_union
-combined_unions[["msigdb.stress"]] <- stress_signature_union
-
-# immediate unions
-# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
-# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
-immediate_combined_unions <- unlist(exp_immediate_list, recursive=F)
-immediate_combined_unions[["msigdb.regen"]] <- regen_signature_union
-immediate_combined_unions[["msigdb.wound"]] <- wound_signature_union
-immediate_combined_unions[["msigdb.stress"]] <- stress_signature_union
-
-# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
-combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
-
-# reccurent sets
-# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
-# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
-combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
-combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
-combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
-combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
-#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
-
-# immediate reccurent sets
-# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
-# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
-immediate_combined_recurrent <- unlist(recurrent_exp_immediate_list, recursive=F)
-immediate_combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
-immediate_combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
-immediate_combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
-#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
-
 # +
 human <- readRDS("../data/biomart_orthologs/human.RDS")
  total_msigdbr <- msigdbr(species = "Homo sapiens")
@@ -704,5 +667,43 @@ for(i in 1:length(immediate_exptype)) {
                                                                                        length(current_exp_down),
                                                                                      "downregulated",1000)
 }
+
+
+# unions
+# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
+# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
+combined_unions <- unlist(exp_wrs_list, recursive=F)
+combined_unions[["msigdb.regen"]] <- regen_signature_union
+combined_unions[["msigdb.wound"]] <- wound_signature_union
+combined_unions[["msigdb.stress"]] <- stress_signature_union
+
+# immediate unions
+# experiment type downregulated union -> exp_wrs_list[["downregulated"]]
+# experiment type upregulated union -> exp_wrs_list[["upregulated"]]
+immediate_combined_unions <- unlist(exp_immediate_list, recursive=F)
+immediate_combined_unions[["msigdb.regen"]] <- regen_signature_union
+immediate_combined_unions[["msigdb.wound"]] <- wound_signature_union
+immediate_combined_unions[["msigdb.stress"]] <- stress_signature_union
+
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
+
+# reccurent sets
+# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+combined_recurrent <- unlist(recurrent_exp_wrs_list, recursive=F)
+combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
+combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
+combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
+#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
+
+# immediate reccurent sets
+# experiment type downregulated recurrent -> recurrent_exp_wrs_list[["downregulated"]]
+# experiment type upregulated reccurent -> recurrent_exp_wrs_list[["upregulated"]]
+immediate_combined_recurrent <- unlist(recurrent_exp_immediate_list, recursive=F)
+immediate_combined_recurrent[["msigdb.regen"]] <- names(regen_signature_recurrent)
+immediate_combined_recurrent[["msigdb.wound"]] <- names(wound_signature_recurrent)
+immediate_combined_recurrent[["msigdb.stress"]] <- names(stress_signature_recurrent)
+#combined_recurrent[["msigdb.inflam"]] <- names(inflam_signature_recurrent)
 
 
