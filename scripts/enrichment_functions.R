@@ -1,6 +1,6 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load(biomaRt, BiocManager, stats, sets, stringi,
-               ggplot2, tidyr, data.table, clusterProfiler,
+               ggplot2, tidyr, dplyr, data.table, clusterProfiler,
                stringr, msigdbr, ggpubr, pheatmap) 
 
 # go
@@ -76,8 +76,6 @@ regen_signature_recurrent <- regen_signature_recurrent[regen_signature_recurrent
 print(paste("Regen Signature Recurrent:",length(regen_signature_recurrent),sep=" "))
 print(paste("Regeneration Signature Unique:",length(unique(total_msigdbr$gs_name[grep("regen",total_msigdbr$gs_name, ignore.case=T)])), sep=" "))
 
-print('###################################')
-
 # +
 human <- readRDS("../data/biomart_orthologs/human.RDS")
  total_msigdbr <- msigdbr(species = "Homo sapiens")
@@ -89,7 +87,7 @@ human <- readRDS("../data/biomart_orthologs/human.RDS")
                            martL=human)
  print(paste("Total Available H Gene Set Genes:", nrow(total_msigdbr_sets_ensembl), sep = " "))
 
-# background_set <- data.frame("gene"=total_msigdbr_sets_ensembl$HGNC.symbol)
+background_set <- data.frame("gene"=total_msigdbr_sets_ensembl$HGNC.symbol)
 
 # write.table(background_set,
 #             file = "./background_set.txt", quote = FALSE, sep = "\t",
@@ -668,6 +666,8 @@ for(i in 1:length(immediate_exptype)) {
                                                                                      "downregulated",1000)
 }
 
+
+print('###################################')
 
 # unions
 # experiment type downregulated union -> exp_wrs_list[["downregulated"]]
